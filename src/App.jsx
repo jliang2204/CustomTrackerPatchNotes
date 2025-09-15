@@ -21,7 +21,6 @@ function App() {
       <h2>9/15/25</h2>
       <ol className="notes">
         <li>Improved matchmaking and sides are randomized (Team A now starts T side, Team B now starts CT side)</li>
-        <li>Betting closes after 2 minutes of creating match</li>
         <li>Bugfix: map no longer changes on using /sub or /swap</li>
         <li>Removed betting for now</li>
       </ol>
