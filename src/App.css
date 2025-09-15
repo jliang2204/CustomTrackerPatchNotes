@@ -1,0 +1,36 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: left;
+}
+
+h1 { 
+  font-size: 3rem;
+  margin-top: -25rem;
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+  margin-top: 1rem;
+}
+
+.container {
+  max-width: 720p;
+  margin: 2rem auto;
+  padding: 0 1rem;
+  font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+  line-height: 1.5;
+}
+
+.notes {
+  list-style-position: outside;
+  padding-left: 1.5rem;
+  margin: .5rem 0 0;
+}
+
+.notes li + li {
+  margin-top:.25rem;
+  text-align: left;
+}
