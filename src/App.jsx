@@ -6,14 +6,14 @@ function App() {
   return (
     <main classname="container">
       <h1>Customs Tracker Bot Patch Notes</h1>
-      <h2>9/13/25 Patch Notes</h2>
-
+      
+      <h2>9/13/25</h2>
       <ol className="notes">
         <li>Winning team and losing team gain and lose the same amount respectively (between 16 and 40)</li>
         <li>Breeze and Fracture removed from the map pool</li>
       </ol>
 
-      <h2>9/14/25 Patch Notes</h2>
+      <h2>9/14/25</h2>
       <ol className="notes">
         <li>/balance and /gamble added </li>
       </ol>
