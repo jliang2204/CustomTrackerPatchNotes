@@ -24,6 +24,11 @@ function App() {
         <li>Bugfix: map no longer changes on using /sub or /swap</li>
         <li>Removed betting for now</li>
       </ol>
+
+      <h2>9/15/25 B Patch</h2>
+      <ol classname="notes">
+        <li>Reverted to K Factor Elo system</li>
+      </ol>
     </main>
   )
 }
