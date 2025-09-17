@@ -25,9 +25,19 @@ function App() {
         <li>Removed betting for now</li>
       </ol>
 
-      <h2>9/15/25 B Patch</h2>
-      <ol classname="notes">
-        <li>Reverted to K Factor Elo system</li>
+      <h2>9/16/25</h2>
+      <ol className="notes">
+        <li>Fracture added back to map pool</li>
+      </ol>
+
+      <h2>9/17/25</h2>
+      <ol className="notes">
+        <p><strong>PRESEASON END | RANK 1: BOSSOSKILLS</strong></p>
+        <li>Season 1 start</li>
+        <li>Preset MMR's for existing players for season start.</li>
+        <li>MMR system refactored.</li>
+        <li>added /endgame and /link</li>
+        <li>Adding later: safeguard to prevent the same map from being rolled twice in a row</li>
       </ol>
     </main>
   )
